@@ -10,7 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //TODO (1) Start devlping app
-        // Change 2
     }
 }
